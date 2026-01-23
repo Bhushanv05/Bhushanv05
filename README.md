@@ -1,12 +1,18 @@
-# Hi there, I'm Bhushan R Chougule 👋
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Core+Banking+Solution+Architect;Finacle+CBS+Specialist;Oracle+PL%2FSql+Expert;12%2B+Years+of+Experience)](https://git.io/typing-svg)
+# 💼 Hi there, I'm Bhushan R Chougule 👋
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Core+Banking+Solution+Architect+%F0%9F%8F%A6;Finacle+CBS+Specialist+%F0%9F%92%BB;Oracle+PL%2FSql+Expert+%F0%9F%9B%A2;12%2B+Years+of+Experience+%E2%9C%A8;Building+Enterprise+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterprise-scale Finacle CBS implementations, Oracle PL/SQL development, and payment systems integration. Currently architecting banking solutions at **The SDCC Bank** serving 2.1M+ customer accounts across 300+ branches.
 
@@ -20,6 +26,8 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 - 🌐 Portfolio: [View My Work](https://gamma.app/docs/Bhushan-R-Chougule-fmvzjcuswyv35mp)
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +62,8 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 ![UPI](https://img.shields.io/badge/UPI-00897B?style=for-the-badge&logo=googlepay&logoColor=white)
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 📊 GitHub Stats
 
