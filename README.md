@@ -59,11 +59,11 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Bhushanv05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Bhushanv05&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhushanv05&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bhushanv05&theme=chartreuse-dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushanv05&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushanv05&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -73,7 +73,7 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Bhushanv05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bhushanv05&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -113,7 +113,7 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 ## 📈 Contribution Graph
 
-[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushanv05&theme=react-dark)](https://github.com/Bhushanv05)
+[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushanv05&theme=github-compact&bg_color=0d1117&color=7FFF00&line=00FF00&point=7FFF00)](https://github.com/Bhushanv05)
 
 ---
 
@@ -140,7 +140,7 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
