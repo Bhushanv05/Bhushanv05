@@ -1,74 +1,143 @@
-<div align="center">
-  
-# 💼 Hi there, I'm Bhushan R Chougule 👋
+# Hi there, I'm Bhushan R Chougule
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Core+Banking+Solution+Architect+%F0%9F%8F%A6;Finacle+CBS+Specialist+%F0%9F%92%BB;Oracle+PL%2FSql+Expert+%F0%9F%9B%A2;12%2B+Years+of+Experience+%E2%9C%A8;Building+Enterprise+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterprise-scale Finacle CBS implementations, Oracle PL/SQL development, and payment systems integration. Currently architecting banking solutions at **The SDCC Bank** serving 2.1M+ customer accounts across 300+ branches.
-
-- 🔭 I'm currently working on **Core Banking Solutions Architecture** and **Payment Systems Integration (NPCI/NEFT/RTGS/NACH)**
-- 👯 I'm looking to collaborate on **Open-source Banking & Fintech Solutions**, **Oracle PL/SQL Projects**, and **Python-based AI/ML Applications**
-- 🤝 I'm looking for help with **Cloud-native Banking Architectures** and **Advanced AI/ML Integration**
-- 🌱 I'm currently learning **Cloud Technologies (AWS/Azure)**, **DevOps**, and **Microservices Architecture**
-- 💬 Ask me about **Finacle CBS**, **Oracle PL/SQL**, **Payment Systems**, **Database Optimization**, and **Enterprise Solution Design**
-- ⚡ Fun fact: I've architected **300+ automated reports** serving 2.1M+ accounts and optimized a reporting system from **4 hours to 30 minutes**! 🚀
-- 📫 How to reach me: **chougulebhushan@gmail.com**
-- 🌐 Portfolio: [View My Work](https://gamma.app/docs/Bhushan-R-Chougule-fmvzjcuswyv35mp)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Core+Banking+Solution+Architect;Finacle+CBS+Specialist;Oracle+PL%2FSql+Expert;12%2B+Years+of+Experience;Building+Enterprise+Banking+Solutions)](https://git.io/typing-svg)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## About Me
 
-## 🛠️ Tech Stack
+I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterprise-scale Finacle CBS implementations, Oracle PL/SQL development, and payment systems integration. Currently architecting banking solutions at **The SDCC Bank**, serving millions of customer accounts across hundreds of branches.
 
-### **Core Banking & Enterprise Systems**
+**Current Focus:**
+- Core Banking Solutions Architecture and System Integration
+- Payment Systems Integration (NPCI/NEFT/RTGS/NACH)
+- Database Performance Optimization and PL/SQL Development
+- Enterprise Reporting Solutions with Jasper Reports
+
+**Seeking Opportunities In:**
+- Cloud-native Banking Architectures
+- Advanced AI/ML Integration in Banking
+- Microservices Architecture for Financial Services
+- DevOps and Modern Banking Infrastructure
+
+**Core Expertise:**
+- Finacle CBS Architecture & Implementation
+- Oracle PL/SQL Development & Database Optimization
+- Payment Gateway Integration & Delivery Channels
+- Enterprise Solution Design & Technical Leadership
+- Jasper Reports & Business Intelligence
+
+**Contact:**
+- Email: chougulebhushan@gmail.com
+- LinkedIn: [linkedin.com/in/bhushanv05](https://linkedin.com/in/bhushanv05)
+- Portfolio: [View My Work](https://gamma.app/docs/Bhushan-R-Chougule-fmvzjcuswyv35mp)
+
+---
+
+## Tech Stack
+
+**Core Banking & Enterprise Systems**
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Finacle](https://img.shields.io/badge/Finacle_CBS-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 
-### **Programming & Scripting**
+**Programming & Scripting**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Database & Data Processing**
+**Database & Data Processing**
+
 ![Oracle](https://img.shields.io/badge/Oracle_11g%2F12c%2F19c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Reporting & BI Tools**
+**Reporting & BI Tools**
+
 ![Jasper Reports](https://img.shields.io/badge/Jasper_Reports-DC382D?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### **Development Tools**
+**Development Tools**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-### **Payment Systems & Integration**
+**Payment Systems & Integration**
+
 ![NPCI](https://img.shields.io/badge/NPCI-FF6B35?style=for-the-badge&logo=razorpay&logoColor=white)
 ![NEFT/RTGS](https://img.shields.io/badge/NEFT%2FRTGS-0052CC?style=for-the-badge&logo=stripe&logoColor=white)
 ![UPI](https://img.shields.io/badge/UPI-00897B?style=for-the-badge&logo=googlepay&logoColor=white)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## Featured Open Source Projects
 
-## 📊 GitHub Stats
+### Finacle CBS - Jasper Reports Integration Tutorial
+**[View Repository](https://github.com/Bhushanv05/jasper-reports-banking)** | Production-Ready Tutorial
+
+Complete end-to-end tutorial for creating, deploying, and integrating Jasper Reports in Finacle Core Banking System. Based on 12+ years of production experience.
+
+**Key Features:**
+- Working example: Loan Recovery Details Report with complete source code
+- PL/SQL stored procedure templates with SPBx framework integration
+- Unix/Linux deployment guides with shell scripts
+- Finacle frontend configuration documentation (FINRPTC/FINRPT)
+- Production-ready best practices and troubleshooting guides
+
+**Technologies:** Finacle CBS, Jasper Reports, Oracle PL/SQL, Unix/Linux
+
+**Impact:** Helps banking professionals implement enterprise reporting solutions with proven patterns from large-scale deployments.
+
+---
+
+### Vicky's Email Writer
+**[Live Demo](https://vickys-email-writer.streamlit.app)** | AI-Powered Tool
+
+Intelligent email automation application built with Python and Streamlit framework.
+
+**Features:**
+- AI-powered email composition and optimization
+- Real-time text analysis and suggestions
+- User-friendly web interface
+- Streamlit deployment
+
+**Technologies:** Python, Streamlit, Natural Language Processing
+
+---
+
+## Professional Achievements
+
+**Enterprise Banking Solutions:**
+- Architected and deployed 300+ automated reports and workflows across enterprise banking operations
+- Led large-scale CBS migration projects processing millions of customer records with 99.97% data accuracy
+- Designed and implemented payment systems integration handling tens of thousands of daily transactions
+- Optimized database performance improving batch processing efficiency by 45%
+- Reduced critical report generation time from hours to minutes through query optimization
+- Developed 100+ production PL/SQL procedures and 50+ Shell scripts for banking automation
+
+**Technical Leadership:**
+- Solution architecture for multi-branch banking implementations
+- Cross-functional team coordination and technical mentoring
+- Stakeholder management and requirements analysis
+- Production deployment and release management
+- Technical documentation and knowledge transfer
+
+**Domain Expertise:**
+- Finacle CBS: Casa, Loans, Deposits, Delivery Channels
+- Payment Systems: NPCI, NEFT, RTGS, IMPS, UPI, NACH, CTS
+- Regulatory Compliance: AML/KYC automation, RBI/NABARD reporting
+- Database Management: Oracle 11g/12c/19c, Performance Tuning
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=Bhushanv05&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhushanv05&theme=chartreuse-dark&hide_border=false)
@@ -79,55 +148,23 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=Bhushanv05&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 💼 Key Achievements
-
-```
-✅ Architected 300+ automated reports and workflows serving 2.1M+ accounts
-✅ Led CBS migration of 250+ branches processing 8M+ customer records with 99.97% accuracy
-✅ Designed payment systems integration handling 50K+ daily transactions
-✅ Optimized database performance improving batch processing by 45%
-✅ Reduced report generation time from 4 hours to 30 minutes
-✅ Implemented 100+ PL/SQL procedures and 50+ Shell scripts automation
-```
-
----
-
-## 🔥 Featured Projects
-
-### 🏦 Core Banking Solutions Architecture
-- Comprehensive Finacle CBS implementation across 300+ branches
-- NPCI/NACH/CTS payment systems integration
-- 300+ automated reports using Jasper iReport and Oracle PL/SQL
-
-### 📧 [Vicky's Email Writer](https://vickys-email-writer.streamlit.app)
-- AI-powered email automation tool
-- Built with Python and Streamlit framework
-- Intelligent email composition and optimization
-
-### 💾 Enterprise Data Migration Framework
-- Large-scale CBS migration of 8M+ customer records
-- PL/SQL data transformation and Shell script automation
-- Zero downtime with 99.97% data accuracy
-
----
-
-## 📈 Contribution Graph
+## Contribution Activity
 
 [![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhushanv05&theme=github-compact&bg_color=0d1117&color=7FFF00&line=00FF00&point=7FFF00)](https://github.com/Bhushanv05)
 
 ---
 
-## 🌐 Connect with Me
+## Connect With Me
 
 <div align="center">
 
@@ -140,44 +177,14 @@ I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterpr
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💭 Random Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Profile Views
 
-</div>
+![](https://komarev.com/ghpvc/?username=Bhushanv05&color=green&style=flat-square&label=Profile+Views)
 
----
+### Show your support by starring repositories that interest you!
 
-## 😄 Random Dev Meme
-
-<div align="center">
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Show some love by starring ⭐ some repositories!
-
-![](https://komarev.com/ghpvc/?username=Bhushanv05&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**Available for consulting, collaboration, and new opportunities in banking technology and enterprise solutions.**
 
 </div>
