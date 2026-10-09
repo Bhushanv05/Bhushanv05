@@ -1,6 +1,6 @@
 # Hi there, I'm Bhushan R Chougule
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Core+Banking+Solution+Architect;Finacle+CBS+Specialist;Oracle+PL%2FSql+Expert;12%2B+Years+of+Experience;Building+Enterprise+Banking+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Core+Banking+Solution+Architect;Finacle+CBS+Specialist;Oracle+PL%2FSql+Expert;13%2B+Years+of+Experience;Building+Enterprise+Banking+Solutions)](https://git.io/typing-svg)
 
 ---
 
