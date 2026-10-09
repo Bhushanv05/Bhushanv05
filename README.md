@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Core Banking Solution Architect** with 12+ years of expertise in enterprise-scale Finacle CBS implementations, Oracle PL/SQL development, and payment systems integration. Currently architecting banking solutions at **The SDCC Bank**, serving millions of customer accounts across hundreds of branches.
+I'm a **Core Banking Solution Architect** with 13+ years of expertise in enterprise-scale Finacle CBS implementations, Oracle PL/SQL development, and payment systems integration. Currently architecting banking solutions at **The SDCC Bank**, serving millions of customer accounts across hundreds of branches.
 
 **Current Focus:**
 - Core Banking Solutions Architecture and System Integration
